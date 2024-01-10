@@ -17,6 +17,14 @@ Sunday - 10 am - 2pm (4) - Hybrid
 3. Lambda 
 
 
+// inbuilt functional interfaces
+/*
+1. Predicate -- boolean values function , BiPredicate
+2. Supplier --- > supplies the values
+3. Consumer ----> takes a value, returns nothing  . BiConsumer
+4. Function ---> accept of 1 type , returns of another type , BiFunction
+        
+
 
 
 

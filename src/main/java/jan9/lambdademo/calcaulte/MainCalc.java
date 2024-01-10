@@ -15,6 +15,14 @@ public class MainCalc {
         Please implement the same for division, multiplication and sub
         10 mins.
 
+  1. create a interface , with method :
+  String apply(String input);
+
+  user to enter a string :
+  lambdas --- 1. to uppercase
+  2. lowercase
+
+
          */
     }
 }
